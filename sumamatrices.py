@@ -22,3 +22,4 @@ print("The eigenvectors of A:\n", vectores_propios)
 B = np.array([1,2])
 x = np.linalg.solve(A,B)
 print("The solution of the system AX = B is:\n", x)
+
