@@ -11,3 +11,6 @@ print("The product of the two matrices ", product)
 
 determinant = np.linalg.det(A)
 print("The determinant of the A is:", determinant)
+
+inversa = np.linalg.inv(A)
+print("The inverse of the A:\n", inversa)
