@@ -5,3 +5,6 @@ print(escalar)
 
 vector = np.array([34, 56, 31, 90, 32, 23, 12])
 print(vector)
+
+matrix = np.array([[1,2,2],[3,4,5],[6,7,8]])#Matrix de doble dimensión
+print(matrix)   
