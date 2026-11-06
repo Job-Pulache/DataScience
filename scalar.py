@@ -14,3 +14,6 @@ print(tensor)
 
 array_arange = np.arange(10)
 print(array_arange)
+
+eye_matrix = np.eye(3)
+print(eye_matrix)
