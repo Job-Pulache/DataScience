@@ -17,3 +17,6 @@ print(array_arange)
 
 eye_matrix = np.eye(3)
 print(eye_matrix)
+
+diag = np.diag([1,2,3])
+print(diag)
