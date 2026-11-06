@@ -34,3 +34,15 @@ print(z)
 
 double_array = np.array([1,2,3], dtype='d')
 print(double_array)
+z = z.astype(np.float64)
+print(z)
+
+array = np.array([[1,2,3],[4,5,6]])
+sum = np.sum(array)
+print(sum)
+
+mean = np.mean(array)
+print(mean)
+
+std = np.std(array)
+print(std)
