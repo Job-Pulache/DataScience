@@ -5,3 +5,6 @@ B = np.array([[5,6], [7,8]])
 
 suma = A+B
 print("the sum of the two matrices is:", suma)
+
+product = np.dot(A,B)
+print("The product of the two matrices ", product)
