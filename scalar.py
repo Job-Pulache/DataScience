@@ -46,3 +46,4 @@ print(mean)
 
 std = np.std(array)
 print(std)
+
