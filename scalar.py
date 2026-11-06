@@ -18,5 +18,8 @@ print(array_arange)
 eye_matrix = np.eye(3)
 print(eye_matrix)
 
-diag = np.diag([1,2,3])
+diag = np.diag([1,2,3, 4, 5, 6, 7, 8, 9, 10])
 print(diag)
+
+random =np.random.random((2,3))
+print(random)
