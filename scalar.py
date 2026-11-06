@@ -8,3 +8,6 @@ print(vector)
 
 matrix = np.array([[1,2,2],[3,4,5],[6,7,8]])#Matrix de doble dimensión
 print(matrix)   
+
+tensor = np.array([[[1,2,3],[4,5,6]],[[7,8,9],[10,11,12]]])#Tensor de triple dimensión
+print(tensor)
