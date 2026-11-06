@@ -1,0 +1,9 @@
+import numpy as np
+
+A = np.array([[1,2],[3,4]])
+B = np.array([[5,6], [7,8]])
+
+sum = A+B
+print(A)
+print(B)
+print("the sum of the two matrices is:", sum)
