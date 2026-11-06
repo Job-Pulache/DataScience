@@ -31,3 +31,6 @@ print(array.dtype)
 
 z = np.array(3, dtype=np.uint8)
 print(z)
+
+double_array = np.array([1,2,3], dtype='d')
+print(double_array)
