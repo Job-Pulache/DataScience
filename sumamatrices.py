@@ -8,3 +8,6 @@ print("the sum of the two matrices is:", suma)
 
 product = np.dot(A,B)
 print("The product of the two matrices ", product)
+
+determinant = np.linalg.det(A)
+print("The determinant of the A is:", determinant)
