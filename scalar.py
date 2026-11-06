@@ -23,3 +23,8 @@ print(diag)
 
 random =np.random.random((2,3))
 print(random)
+
+array = np.array([[1,2,3],[4,5,6],[7,8,9]])
+print(array.ndim)
+print(array.shape)
+print(array.dtype)
